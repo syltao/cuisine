@@ -9,7 +9,7 @@ description: houmous très aromatisé sans tahine
 #### Ingrédients 
 
 - 1 boite de 500 g de pois chiches ou
-... une tasse de pois chiches trempé et cuit et refroidi [^note]
+... une tasse de pois chiches trempé et cuit et refroidie [^note]
 - 4 gousses d'ail 
 - 80 ml d'huile d'olive 
 - sel
