@@ -28,9 +28,10 @@ Réunir tous les éléments dans un blender et mixer finement.
 Si nécessaire ajouter un peu de jus de pois chiches jusqu'à obtenir une belle texture lisse. 
 Servir frais avec quelques pois chiches entier pour le décor, un filet d'huile d'olive et une pincée de paprika.
 
-Quelques mots sur la recette
-Vous pouvez si vous le désirez ajouter une cuiller à soupe de tahin pour la liaison. Personnellement je n'en met pas la liaison à l'huile d'olive me suffit.
+#### Notes
+Quelques mots de Chef Simon sur la recette. Vous pouvez si vous le désirez ajouter une cuiller à soupe de tahin pour la liaison. Personnellement je n'en met pas la liaison à l'huile d'olive me suffit.
 
-Il y a maintes recettes de houmous, syrien, libanais...  mais ma préférence va vers une version plus relevée. Le mélange du jus  de citron et des épices lui donne un côté d'abord frais acidulé qui disparait
+Il y a maintes recettes de houmous, syrien, libanais...  mais ma préférence va vers une version plus relevée. Le mélange du jus  de citron et des épices lui donne un côté d'abord frais acidulé qui disparait.
 
-[^note] Les poix chiches sont trempé une nuit puis cuit avec une feuille de laurier, un peu de poudre de coriandre et largement couvrir d'eau. Environ 20mn à la pression. Noter que l'eau de cuisson peut être valorisée, voir [Aquabafa](https://www.finedininglovers.fr/blog/a-boire-et-a-manger/recettes-aquafaba-eau-pois-chiche/).
+
+[^note]: Les poix chiches sont trempé une nuit puis cuit avec une feuille de laurier, un peu de poudre de coriandre et largement couvrir d'eau. Environ 20mn à la pression. Noter que l'eau de cuisson peut être valorisée, voir [Aquabafa](https://www.finedininglovers.fr/blog/a-boire-et-a-manger/recettes-aquafaba-eau-pois-chiche/).
