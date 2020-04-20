@@ -1,3 +1,10 @@
+---
+titre: "Gâteau de carottes"
+categories: ["dessert"]
+tags: ["végétarien", "froid"]
+description: Gateau de carottes avec glaçage
+---
+
 # Gâteau de carottes
 
 ##### Pour le gâteau
