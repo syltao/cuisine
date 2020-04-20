@@ -9,7 +9,7 @@ description: houmous très aromatisé sans tahine
 #### Ingrédients 
 
 - 1 boite de 500 g de pois chiches ou
-... une tasse de pois chiches trempé et cuit et refroidie [^note]
+... une tasse de pois chiches trempé et cuit et refroidie [^1]
 - 4 gousses d'ail 
 - 80 ml d'huile d'olive 
 - sel
@@ -34,4 +34,4 @@ Quelques mots de Chef Simon sur la recette. Vous pouvez si vous le désirez ajou
 Il y a maintes recettes de houmous, syrien, libanais...  mais ma préférence va vers une version plus relevée. Le mélange du jus  de citron et des épices lui donne un côté d'abord frais acidulé qui disparait.
 
 
-[^note]: Les poix chiches sont trempé une nuit puis cuit avec une feuille de laurier, un peu de poudre de coriandre et largement couvrir d'eau. Environ 20mn à la pression. Noter que l'eau de cuisson peut être valorisée, voir [Aquabafa](https://www.finedininglovers.fr/blog/a-boire-et-a-manger/recettes-aquafaba-eau-pois-chiche/).
+[^1]: Les poix chiches sont trempé une nuit puis cuit avec une feuille de laurier, un peu de poudre de coriandre et largement couvrir d'eau. Environ 20mn à la pression. Noter que l'eau de cuisson peut être valorisée, voir [Aquabafa](https://www.finedininglovers.fr/blog/a-boire-et-a-manger/recettes-aquafaba-eau-pois-chiche/).
