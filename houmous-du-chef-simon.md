@@ -1,5 +1,8 @@
 ---
 titre: "Houmous de Chef Simon"
+categories: ["deep", "apéro"]
+tags: ["végétarien", "froid", "moyen oriental"]
+description: houmous très aromatisé sans tahine
 ---
 
 # Houmous de Chef Simon
@@ -28,4 +31,4 @@ Servir frais avec quelques pois chiches entier pour le décor, un filet d'huile 
 Quelques mots sur la recette
 Vous pouvez si vous le désirez ajouter une cuiller à soupe de tahin pour la liaison. Personnellement je n'en met pas la liaison à l'huile d'olive me suffit.
 
-  Il y a maintes recettes de houmous, syrien, libanais...  mais ma préférence va vers une version plus relevée. Le mélange du jus  de citron et des épices lui donne un côté d'abord frais acidulé qui  disparait
+Il y a maintes recettes de houmous, syrien, libanais...  mais ma préférence va vers une version plus relevée. Le mélange du jus  de citron et des épices lui donne un côté d'abord frais acidulé qui disparait
